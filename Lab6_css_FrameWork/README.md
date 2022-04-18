@@ -7,7 +7,7 @@ ______________________________________________
 
 ## CARA MENGGUNAKAN TWITTER BOOSTRAP
 
-Sebelumnya untuk dapat membuat sebuah halaman web seperti dibawah ini, kalian dapat melihatnya pada repository saya sebelumnya dengan judul Leb5JavaScript.
+Sebelumnya untuk dapat membuat sebuah halaman web seperti dibawah ini, kalian dapat melihatnya pada repository saya digithub sebelumnya dengan judul Lab5JavaScript.
 
 ![menambahkan_gambar](img/RESULT.png)
 
