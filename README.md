@@ -7,9 +7,11 @@ ______________________________________________
 
 ## CARA MENGGUNAKAN TWITTER BOOSTRAP
 
+![menambahkan_gambar](img/RESULT.png)
+
 Sebelumnya untuk dapat membuat sebuah halaman web seperti dibawah ini, kalian dapat melihatnya pada repository saya di github sebelumnya dengan judul Lab5JavaScript.
 
-![menambahkan_gambar](img/RESULT.png)
+![menambahkan_gambar](img/GITHUB.png)
 
 Setelahnya kalian dapat menggunakan kode berikut untuk dapat menggunakan Boostrap tersebut.
 
